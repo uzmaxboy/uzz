@@ -1,7 +1,7 @@
 const ADMINS = [123456789, 987654321] // ID админов бота
 const DB_URL = 'mongodb://localhost:27017/bogatiry' // URL базы бота
 const QIWI_TOKEN = "dfgfdgfdgdfgdfhfghfghfg344bb" // API ключ QIWI кошелька с полным доступом
-const BOT_TOKEN = "965412635:AAGLUsfdgfdghhytK8grthdfVFjfdhgKHo" // Bot API Token
+const BOT_TOKEN = "1096541213:AAFWc1qw5beCJ0e8RXGe7r7HVekQzlAV9TU" // Bot API Token
 
 /*
 
